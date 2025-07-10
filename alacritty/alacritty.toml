@@ -1,0 +1,14 @@
+[window]
+decorations = "Transparent"
+opacity = 0.5
+blur = true
+padding = { x = 20, y = 40 }
+
+[font]
+size = 15.0
+normal = { family = "FiraCode Nerd Font", style = "Regular"}
+bold = { family = "FiraCode Nerd Font", style = "Bold" }
+italic = { family = "FiraCode Nerd Font", style = "Italic" }
+
+# Enable ligatures (optional but recommended for coding fonts)
+#enable_ligatures = true

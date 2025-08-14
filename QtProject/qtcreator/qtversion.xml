@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorQtVersions>
+<!-- Written by QtCreator 17.0.0, 2025-07-21T18:47:32. -->
+<qtcreator>
+ <data>
+  <variable>QtVersion.0</variable>
+  <valuemap type="QVariantMap">
+   <value type="int" key="Id">1</value>
+   <value type="QString" key="Name">Qt %{Qt:Version} for macOS</value>
+   <value type="QString" key="QMakePath">/Users/fourmetrsquared/Qt/6.9.1/macos/bin/qmake</value>
+   <value type="QString" key="QtVersion.Type">Qt4ProjectManager.QtVersion.Desktop</value>
+   <value type="QString" key="autodetectionSource">SDK.qt.qt6.691.clang_64</value>
+   <value type="bool" key="isAutodetected">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>QtVersion.1</variable>
+  <valuemap type="QVariantMap">
+   <value type="int" key="Id">2</value>
+   <value type="QString" key="Name">Qt %{Qt:Version} for Android ARM64-v8a</value>
+   <value type="QString" key="QMakePath">/Users/fourmetrsquared/Qt/6.9.1/android_arm64_v8a/bin/qmake</value>
+   <value type="QString" key="QtVersion.Type">Qt4ProjectManager.QtVersion.Android</value>
+   <value type="QString" key="autodetectionSource">SDK.qt.qt6.691.android_arm64_v8a</value>
+   <value type="bool" key="isAutodetected">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>QtVersion.2</variable>
+  <valuemap type="QVariantMap">
+   <value type="int" key="Id">3</value>
+   <value type="QString" key="Name">Qt %{Qt:Version} for Android ARMv7</value>
+   <value type="QString" key="QMakePath">/Users/fourmetrsquared/Qt/6.9.1/android_armv7/bin/qmake</value>
+   <value type="QString" key="QtVersion.Type">Qt4ProjectManager.QtVersion.Android</value>
+   <value type="QString" key="autodetectionSource">SDK.qt.qt6.691.android_armv7</value>
+   <value type="bool" key="isAutodetected">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>QtVersion.3</variable>
+  <valuemap type="QVariantMap">
+   <value type="int" key="Id">4</value>
+   <value type="QString" key="Name">Qt %{Qt:Version} for Android x86</value>
+   <value type="QString" key="QMakePath">/Users/fourmetrsquared/Qt/6.9.1/android_x86/bin/qmake</value>
+   <value type="QString" key="QtVersion.Type">Qt4ProjectManager.QtVersion.Android</value>
+   <value type="QString" key="autodetectionSource">SDK.qt.qt6.691.android_x86</value>
+   <value type="bool" key="isAutodetected">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>QtVersion.4</variable>
+  <valuemap type="QVariantMap">
+   <value type="int" key="Id">5</value>
+   <value type="QString" key="Name">Qt %{Qt:Version} for Android x86_64</value>
+   <value type="QString" key="QMakePath">/Users/fourmetrsquared/Qt/6.9.1/android_x86_64/bin/qmake</value>
+   <value type="QString" key="QtVersion.Type">Qt4ProjectManager.QtVersion.Android</value>
+   <value type="QString" key="autodetectionSource">SDK.qt.qt6.691.android_x86_64</value>
+   <value type="bool" key="isAutodetected">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>QtVersion.5</variable>
+  <valuemap type="QVariantMap">
+   <value type="int" key="Id">6</value>
+   <value type="QString" key="Name">Qt %{Qt:Version} for iOS</value>
+   <value type="QString" key="QMakePath">/Users/fourmetrsquared/Qt/6.9.1/ios/bin/qmake</value>
+   <value type="QString" key="QtVersion.Type">Qt4ProjectManager.QtVersion.Ios</value>
+   <value type="QString" key="autodetectionSource">SDK.qt.qt6.691.ios</value>
+   <value type="bool" key="isAutodetected">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>Version</variable>
+  <value type="int">1</value>
+ </data>
+</qtcreator>

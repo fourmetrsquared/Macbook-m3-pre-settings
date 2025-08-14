@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorDebuggers>
+<!-- Written by QtCreator 17.0.0, 2025-08-09T22:41:04. -->
+<qtcreator>
+ <data>
+  <variable>DebuggerItem.0</variable>
+  <valuemap type="QVariantMap">
+   <valuelist type="QVariantList" key="Abis">
+    <value type="QString">x86-darwin-generic-mach_o-64bit</value>
+    <value type="QString">arm-darwin-generic-mach_o-64bit</value>
+   </valuelist>
+   <value type="bool" key="AutoDetected">true</value>
+   <value type="QString" key="Binary">/Library/Developer/CommandLineTools/usr/bin/lldb</value>
+   <value type="QString" key="DetectionSource"></value>
+   <value type="QString" key="DisplayName">System LLDB at /Library/Developer/CommandLineTools/usr/bin/lldb</value>
+   <value type="int" key="EngineType">256</value>
+   <value type="QString" key="Id">{2f22389e-e22d-4317-98d7-b3ca522aaa10}</value>
+   <value type="QDateTime" key="LastModified">2025-05-13T09:23:46.000</value>
+   <value type="QString" key="Version">1700.0.9.502</value>
+   <value type="QString" key="WorkingDirectory"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>DebuggerItem.1</variable>
+  <valuemap type="QVariantMap">
+   <valuelist type="QVariantList" key="Abis">
+    <value type="QString">x86-darwin-generic-mach_o-64bit</value>
+    <value type="QString">arm-darwin-generic-mach_o-64bit</value>
+   </valuelist>
+   <value type="bool" key="AutoDetected">true</value>
+   <value type="QString" key="Binary">/usr/bin/lldb</value>
+   <value type="QString" key="DetectionSource"></value>
+   <value type="QString" key="DisplayName">System LLDB at /usr/bin/lldb</value>
+   <value type="int" key="EngineType">256</value>
+   <value type="QString" key="Id">{e41da08e-a47f-43dd-9b3a-4c7b0a9f93a2}</value>
+   <value type="QDateTime" key="LastModified">2025-07-19T08:13:32.000</value>
+   <value type="QString" key="Version">1700.0.9.502</value>
+   <value type="QString" key="WorkingDirectory"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>DebuggerItem.2</variable>
+  <valuemap type="QVariantMap">
+   <valuelist type="QVariantList" key="Abis">
+    <value type="QString">x86-darwin-generic-mach_o-64bit</value>
+    <value type="QString">arm-darwin-generic-mach_o-64bit</value>
+   </valuelist>
+   <value type="bool" key="AutoDetected">true</value>
+   <value type="QString" key="Binary">/Applications/Xcode.app/Contents/Developer/usr/bin/lldb</value>
+   <value type="QString" key="DetectionSource"></value>
+   <value type="QString" key="DisplayName">System LLDB at /Applications/Xcode.app/Contents/Developer/usr/bin/lldb</value>
+   <value type="int" key="EngineType">256</value>
+   <value type="QString" key="Id">{ae6ef0b7-8cdd-483c-b00c-536c4a81a23b}</value>
+   <value type="QDateTime" key="LastModified">2025-05-13T09:23:49.000</value>
+   <value type="QString" key="Version">1700.0.9.502</value>
+   <value type="QString" key="WorkingDirectory"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>DebuggerItem.Count</variable>
+  <value type="int">3</value>
+ </data>
+ <data>
+  <variable>Version</variable>
+  <value type="int">1</value>
+ </data>
+</qtcreator>

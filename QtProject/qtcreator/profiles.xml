@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorProfiles>
+<!-- Written by QtCreator 17.0.0, 2025-08-09T22:41:04. -->
+<qtcreator>
+ <data>
+  <variable>Kit.IrrelevantAspects</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Python.Interpreter</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>Profile.0</variable>
+  <valuemap type="QVariantMap">
+   <valuelist type="QVariantList" key="PE.Kit.RelevantAspects">
+    <value type="QString">PE.Profile.Environment</value>
+    <value type="QString">Python.Interpreter</value>
+   </valuelist>
+   <value type="bool" key="PE.Profile.AutoDetected">true</value>
+   <value type="QString" key="PE.Profile.AutoDetectionSource">Python</value>
+   <valuemap type="QVariantMap" key="PE.Profile.Data">
+    <value type="QString" key="Python.Interpreter">{1044a2a1-4c96-4d14-8bf1-880064030a7f}</value>
+   </valuemap>
+   <value type="QString" key="PE.Profile.DeviceTypeForIcon"></value>
+   <value type="QString" key="PE.Profile.Icon"></value>
+   <value type="QString" key="PE.Profile.Id">{1044a2a1-4c96-4d14-8bf1-880064030a7f}</value>
+   <valuelist type="QVariantList" key="PE.Profile.MutableInfo"/>
+   <value type="QString" key="PE.Profile.Name">%{Python:Name}</value>
+   <value type="bool" key="PE.Profile.SDK">false</value>
+   <valuelist type="QVariantList" key="PE.Profile.StickyInfo">
+    <value type="QString">Python.Interpreter</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>Profile.1</variable>
+  <valuemap type="QVariantMap">
+   <value type="bool" key="PE.Profile.AutoDetected">true</value>
+   <value type="QString" key="PE.Profile.AutoDetectionSource"></value>
+   <valuemap type="QVariantMap" key="PE.Profile.Data">
+    <valuelist type="QVariantList" key="CMake.ConfigurationKitInformation">
+     <value type="QString">QT_QMAKE_EXECUTABLE:FILEPATH=%{Qt:qmakeExecutable}</value>
+     <value type="QString">CMAKE_PREFIX_PATH:PATH=%{Qt:QT_INSTALL_PREFIX}</value>
+     <value type="QString">CMAKE_C_COMPILER:FILEPATH=%{Compiler:Executable:C}</value>
+     <value type="QString">CMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}</value>
+    </valuelist>
+    <valuemap type="QVariantMap" key="CMake.GeneratorKitInformation">
+     <value type="QString" key="ExtraGenerator"></value>
+     <value type="QString" key="Generator">Ninja</value>
+     <value type="QString" key="Platform"></value>
+     <value type="QString" key="Toolset"></value>
+    </valuemap>
+    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">qt.tools.cmake</value>
+    <value type="QString" key="Debugger.Information">{e41da08e-a47f-43dd-9b3a-4c7b0a9f93a2}</value>
+    <value type="QString" key="PE.Profile.BuildDeviceType">Desktop</value>
+    <value type="QString" key="PE.Profile.DeviceType">Desktop</value>
+    <valuemap type="QVariantMap" key="PE.Profile.ToolChainsV3">
+     <value type="QByteArray" key="C">{124a76c4-56e3-4429-b67c-36f6fd69a2dc}</value>
+     <value type="QByteArray" key="Cxx">{832a9c03-28e9-4106-a909-e4b06cd7d2c8}</value>
+    </valuemap>
+    <value type="QString" key="QtSupport.QtInformation">SDK.qt.qt6.691.clang_64</value>
+   </valuemap>
+   <value type="QString" key="PE.Profile.DeviceTypeForIcon"></value>
+   <value type="QString" key="PE.Profile.Icon"></value>
+   <value type="QString" key="PE.Profile.Id">qt.qt6.691.clang_64_kit</value>
+   <valuelist type="QVariantList" key="PE.Profile.MutableInfo"/>
+   <value type="QString" key="PE.Profile.Name">Qt %{Qt:Version} for macOS</value>
+   <value type="bool" key="PE.Profile.SDK">true</value>
+   <valuelist type="QVariantList" key="PE.Profile.StickyInfo">
+    <value type="QString">QtSupport.QtInformation</value>
+    <value type="QString">PE.Profile.DeviceType</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>Profile.2</variable>
+  <valuemap type="QVariantMap">
+   <valuelist type="QVariantList" key="PE.Kit.RelevantAspects">
+    <value type="QString">PE.Profile.Environment</value>
+    <value type="QString">Python.Interpreter</value>
+   </valuelist>
+   <value type="bool" key="PE.Profile.AutoDetected">true</value>
+   <value type="QString" key="PE.Profile.AutoDetectionSource">Python</value>
+   <valuemap type="QVariantMap" key="PE.Profile.Data">
+    <value type="QString" key="Python.Interpreter">{00108ab7-354e-43a0-a32b-a35fa0e43f3d}</value>
+   </valuemap>
+   <value type="QString" key="PE.Profile.DeviceTypeForIcon"></value>
+   <value type="QString" key="PE.Profile.Icon"></value>
+   <value type="QString" key="PE.Profile.Id">{00108ab7-354e-43a0-a32b-a35fa0e43f3d}</value>
+   <valuelist type="QVariantList" key="PE.Profile.MutableInfo"/>
+   <value type="QString" key="PE.Profile.Name">%{Python:Name}</value>
+   <value type="bool" key="PE.Profile.SDK">false</value>
+   <valuelist type="QVariantList" key="PE.Profile.StickyInfo">
+    <value type="QString">Python.Interpreter</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>Profile.Count</variable>
+  <value type="int">3</value>
+ </data>
+ <data>
+  <variable>Profile.Default</variable>
+  <value type="QString">qt.qt6.691.clang_64_kit</value>
+ </data>
+ <data>
+  <variable>Version</variable>
+  <value type="int">1</value>
+ </data>
+</qtcreator>
